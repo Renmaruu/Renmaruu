@@ -1,4 +1,4 @@
-# Hi there, I'm Renaldi 👋
+# Hello! I'm Renaldi 👋
 ## About me:
 - 🔭 I’m a Job Seeker
 - 🌱 I’m currently learning Python and SQL
@@ -16,9 +16,9 @@
 
 ## Work Experience:
 #### 1. [PPSDM Migas] | Internship | Blora `Sep'2021 - Oct'2021`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
+   - Analysis and acquisition of soil structure data using seismic methods
+   - Processing and data conversion with Winsins software
+   - Speed data analysis, picking first arrival time, and travel time
 ---
 
 ### Languages and Tools:
