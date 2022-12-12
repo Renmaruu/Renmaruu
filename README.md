@@ -1,4 +1,4 @@
-# Hi there, I'm Renaldi Dwi Saputra 👋
+# Hi there, I'm Renaldi 👋
 ## About me:
 - 🔭 I’m a Job Seeker
 - 🌱 I’m currently learning Python and SQL
