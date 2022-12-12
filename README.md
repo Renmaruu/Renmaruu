@@ -23,6 +23,7 @@
 
 ### Languages and Tools:
 
+#### Tools :
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Word" width="30px" src="https://findicons.com/files/icons/2795/office_2013_hd/128/word.png" style="padding-right:10px;" />][webdev]
@@ -30,14 +31,11 @@
 [<img align="left" alt="PowerPoint" width="30px" src="https://www.freeiconspng.com/uploads/powerpoint-icon-microsoft-powerpoint-icon-network-powerpoint-icons-and-3.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Big Query" width="30px" src="https://www.mydraw.com/NIMG.axd?i=Shape-Libraries/Cloud/Google-Cloud/GCP-Icons/Data-Analytics/BigQuery.png" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Data Studio" width="30px" src="https://images.hired.com/companies/5150/logos/1587658054/offer.png" style="padding-right:10px;" />][webdev]
-
-<br />
 <br />
 
-#### - Languages : Indonesian & English
-
-<br />
-<br />
+#### Languages : 
+- Indonesian
+- English (Limited Working Proficiency)
 
 ---
 ### Connect with me:
