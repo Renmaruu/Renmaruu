@@ -28,8 +28,13 @@
 [<img align="left" alt="Word" width="30px" src="https://findicons.com/files/icons/2795/office_2013_hd/128/word.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="PowerPoint" width="30px" src="https://www.freeiconspng.com/uploads/powerpoint-icon-microsoft-powerpoint-icon-network-powerpoint-icons-and-3.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Big Query" width="30px" src="https://www.clipartmax.com/png/small/200-2001825_bigquery-analytics-data-warehouse-google-cloud-big-query-icon.png" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Data Studio" width="50px" src="https://images.hired.com/companies/5150/logos/1587658054/offer.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Big Query" width="30px" src="https://www.mydraw.com/NIMG.axd?i=Shape-Libraries/Cloud/Google-Cloud/GCP-Icons/Data-Analytics/BigQuery.png" style="padding-right:0px;" />][webdev]
+[<img align="left" alt="Data Studio" width="30px" src="https://images.hired.com/companies/5150/logos/1587658054/offer.png" style="padding-right:10px;" />][webdev]
+
+<br />
+<br />
+
+#### - Languages : Indonesian & English
 
 <br />
 <br />
